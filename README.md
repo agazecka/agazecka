@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ada!
+- 👀 I’m interested in RNA-seq, R programming and molecular biology.
